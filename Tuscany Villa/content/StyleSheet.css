@@ -1,0 +1,90 @@
+﻿body {
+}
+
+#navi{
+    text-align:center;
+}
+#headleft{
+  background:url('../images/tuscany-villas-sant-anna.jpg');
+   padding-bottom:110px;
+   padding-top:110px;
+}
+#leftnest{
+    background-color:darkgray;
+    opacity:0.7;
+    text-align:center;
+    padding-left:50px;
+    padding-right:50px;
+}
+
+#headright{
+    background:url('../images/Versilia.jpg');
+    padding-bottom:144px;
+    padding-top:144px;
+     
+}
+#rightnest{
+      background-color:darkgray;
+    opacity:0.7;
+    text-align:center;
+}
+#box1{
+    padding-bottom:80px;
+    padding-top:80px;
+
+}
+#box2{
+
+}
+#box3{
+
+}
+#box4{
+
+}
+#box5{
+
+}
+#box6{
+     padding-bottom:80px;
+    padding-top:80px;
+
+}
+#box7{
+
+}
+#box8{
+    text-align:center;
+  padding-bottom:65px;
+  padding-top:65px;
+    border-color:aquamarine
+      
+}
+#box8btn{
+    
+    border-color:aquamarine;
+}
+#box9{
+    padding-bottom:80px;
+    padding-top:80px;
+}
+#box10{
+
+}
+#box11{
+    text-align:center;
+    background-color:aquamarine;
+    padding-bottom:80px;
+    padding-top:80px;
+}
+#box11btn{
+    background-color:darkgray;
+}
+#box11img{
+   
+}
+#box12{
+    padding-bottom:80px;
+    padding-top:80px;
+
+}
